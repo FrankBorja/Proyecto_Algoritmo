@@ -93,7 +93,7 @@ Funcion sacarivaytotal()
 		Escribir "El total del traje #",i " " "es:", " " total "$";
 	FinPara
 FinFuncion
-//Funcion dado tres numeros indicar si el segundo es el mayor 
+// Funcion dado tres numeros indicar si el segundo es el mayor 
 Funcion Dadotresnumeros()
 	Definir n1,n2,n3 como entero ;
 	Escribir "Digite tres numeros:";
@@ -104,7 +104,7 @@ Funcion Dadotresnumeros()
 		Escribir "El segundo numero", " " n2 " " "No Es mayor";
 	FinSi
 FinFuncion
-//Funcion Calcular cantidad de numeros promedio
+// Funcion Calcular cantidad de numeros promedio
 Funcion CantidadDeNumerosPromedio()
 	Definir n1,num,suma,r,div Como Real;
 	suma=0;
